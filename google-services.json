@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "540568436482",
+    "firebase_url": "https://books-app-67be5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "books-app-67be5",
+    "storage_bucket": "books-app-67be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540568436482:android:eb09da229b9d2a8a7acc1b",
+        "android_client_info": {
+          "package_name": "com.bookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZn9TW7Icj7_h9ayZs5NrQaaOkSc7ZA1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
